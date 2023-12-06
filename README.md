@@ -13,13 +13,13 @@ With bicycle usage data from the city of London´s sharing service, the goal of 
 Since the data is from january 2015 to january 2017, to demonstrate the accuracy of predictions, a conection to the London City API was done to gather real time data.
 Source: 
 
-# Support
+## Support
 Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
 
-# Roadmap
+## Roadmap
 If you have ideas for releases in the future, it is a good idea to list them in the README.
 
-# Authors and acknowledgment
+## Authors and acknowledgment
 Show your appreciation to those who have contributed to the project.
 
 
