@@ -12,7 +12,7 @@ Cities are now actively starting to address these issues by implementing a range
 
 Source: EU Commission, https://urban.jrc.ec.europa.eu/thefutureofcities/mobility#the-chapter
 
-### Project
+### Project Description
 
 With bicycle usage data from the city of London´s sharing service, the goal of this project is to analyse the trends and seasonality, in order to draw a Machine Learning demand prediction model. In this project, vLinear Regression Modelling has been used to get the trend, and an ARIMA model helped create the predictions for the next 10 years. 
 
@@ -21,12 +21,16 @@ Since the data is from january 2015 to january 2017, to demonstrate the accuracy
 Source: Kaggle, https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
 ## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+### For timeseries
+https://www.geeksforgeeks.org/time-series-data-visualization-in-python/
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+### For ARIMA Modelling
+https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/
 
 ## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+This project could not have been possible without the support and motivation received from my teacher, Aleks Boski.
+Also, a special mention to my colleague Agata Płucienik who helped me in the project design, as well as in understanding timeseries analysis. 
+Paula Bendito, for encouraging me to go in the direction of Data Analytics.
+To Ironhack, for the unforgettable 9 weeks of deep-dive into Data Analytics and for providing a very priviledged setting to learn with others.
 
 
