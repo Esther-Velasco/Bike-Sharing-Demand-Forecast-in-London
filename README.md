@@ -28,6 +28,7 @@ https://www.geeksforgeeks.org/time-series-data-visualization-in-python/
 https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/
 https://www.youtube.com/watch?v=-aCF0_wfVwY
 https://alkaline-ml.com/pmdarima/tips_and_tricks.html#understand-p-d-q-and-m
+https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html
 
 ### Cross validation
 https://github.com/egorhowell/Youtube/blob/main/Time-Series-Crash-Course/14.%20Crossvalidation.ipynb
