@@ -26,6 +26,12 @@ https://www.geeksforgeeks.org/time-series-data-visualization-in-python/
 
 ### For ARIMA Modelling
 https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/
+https://www.youtube.com/watch?v=-aCF0_wfVwY
+https://alkaline-ml.com/pmdarima/tips_and_tricks.html#understand-p-d-q-and-m
+
+### Cross validation
+https://github.com/egorhowell/Youtube/blob/main/Time-Series-Crash-Course/14.%20Crossvalidation.ipynb
+
 
 ## Authors and acknowledgment
 This project could not have been possible without the support and motivation received from my teacher, Aleks Boski.
