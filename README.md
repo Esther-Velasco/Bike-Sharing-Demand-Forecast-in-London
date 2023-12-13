@@ -33,6 +33,9 @@ https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SAR
 ### Cross validation
 https://github.com/egorhowell/Youtube/blob/main/Time-Series-Crash-Course/14.%20Crossvalidation.ipynb
 
+### Real time London Data: API London Transport
+https://api-portal.tfl.gov.uk/api-details#api=BikePoint&operation=BikePoint_GetAll
+
 ### Mapping in tableau
 https://www.youtube.com/watch?v=7-sVGqwJyQ8
 
