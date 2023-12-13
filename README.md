@@ -33,6 +33,9 @@ https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SAR
 ### Cross validation
 https://github.com/egorhowell/Youtube/blob/main/Time-Series-Crash-Course/14.%20Crossvalidation.ipynb
 
+### Mapping in tableau
+https://www.youtube.com/watch?v=7-sVGqwJyQ8
+
 
 ## Authors and acknowledgment
 This project could not have been possible without the support and motivation received from my teacher, Aleks Boski.
