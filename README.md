@@ -14,9 +14,9 @@ Source: EU Commission, https://urban.jrc.ec.europa.eu/thefutureofcities/mobility
 
 ### Project Description
 
-With bicycle usage data from the city of London´s sharing service, the goal of this project is to analyse the trends and seasonality, in order to draw a Machine Learning demand prediction model. In this project, vLinear Regression Modelling has been used to get the trend, and an ARIMA model helped create the predictions for the next 10 years. 
+With bicycle usage data from the city of London´s sharing service, the goal of this project is to analyse the trends and seasonality, in order to draw a Machine Learning demand prediction model. In this project, Linear Regression Modelling has been used to get the trend, and an ARIMA model helped create the predictions for the next 10 years. 
 
-Since the data is from january 2015 to january 2017, to demonstrate the accuracy of predictions, a conection to the London City API was done to gather real time data.
+In addition, conection to the London City API was done to gather real time data and visualize it in an interactive map in Tableau.
 
 Source: Kaggle, https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=7-sVGqwJyQ8
 
 
 ## Authors and acknowledgment
-This project could not have been possible without the support and motivation received from my teacher, Aleks Boski.
+This project could not have been possible without the support and motivation received from my teacher, Aleksander Boski.
 Also, a special mention to my colleague Agata Płucienik who helped me in the project design, as well as in understanding timeseries analysis. 
 Paula Bendito, for encouraging me to go in the direction of Data Analytics.
 To Ironhack, for the unforgettable 9 weeks of deep-dive into Data Analytics and for providing a very priviledged setting to learn with others.
